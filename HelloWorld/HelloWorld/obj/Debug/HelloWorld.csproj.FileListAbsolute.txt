@@ -1,0 +1,7 @@
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Github_Rapite\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

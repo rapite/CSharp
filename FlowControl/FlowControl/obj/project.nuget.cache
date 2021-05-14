@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NdJ0714kxFcYMDRB1G8+AA9H2irUmkWTlkkk3Qm5Sq8md510+8eo6Eux+dowh1CU1QcygZka8WSkIL81MQ5NA==",
+  "success": true,
+  "projectFilePath": "D:\\Github_Rapite\\CSharp\\FlowControl\\FlowControl\\FlowControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

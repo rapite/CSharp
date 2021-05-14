@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XT4ynxdJCAX1+Bd/YLxiSl2qhkRDB6hBX1XQ0imx+1h5Ht/lx7FK5fYWNgvkvj9RMmTKPNe6owVQJhFg5DzGJA==",
+  "success": true,
+  "projectFilePath": "D:\\Github_Rapite\\CSharp\\Writeline_Practice\\Writeline_Practice\\Writeline_Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
